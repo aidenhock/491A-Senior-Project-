@@ -1,0 +1,89 @@
+sprint planning
+1. decide on intervals
+too many people in a meeting can slow it down
+sprint planning helps; decide on stuff to work on on next meeting
+intervals betweeen sprints can change, but not advisable to be inconsistent
+2. decide team capacity
+team cap is amount of work u can do in an interval
+max in 2 weeks is 80 hours? 8 hours a day, 5 days a week, twice
+going over cap basically means ur planning on failing the sprint
+trying to max out team cap without going over total hours
+3. he skipped this?
+4. assignment
+dont have one thing assigned to 2 people, gotta worry about accountability
+if one person is responsible for something, only one can be thrown under the bus
+can still have other people work on same stuff, just need to have only one responsible
+5. task breakdown breakdown
+split tasks as minisculely as possible and throw them all at different people
+"upload video" can be split into UI, storage location, size validation, etc. and includes testing and deploying
+goes from a 10 hour estimate to 16-20
+6. analyze
+are we still within capacity? see if estimates from breakdown put us over or under
+might now need more time than realized, what do?
+not actually feasible to hit exactly 80 work hours every single 2 weeks
+stats show ur only really productive 6 hours out of an 8 hour work day
+that's a max of 72 hours per 2 weeks, prof says 60 is a good benchmark
+ur legally allowed to take 2 breaks if u work 8 hours a day
+doing daily standup every day of the sprint, doing work (design, development, testing) of task assigned
+some people forget testing and sometimes even design
+
+
+hardest part about development is merging code
+end of sprint, comming/merge code, make sure there's no errors
+vong has seen senior devs merge errors into codebase without checking:sob:
+try to do that ~ a day or two before it's due
+then do client demos
+THEN sprint retrospective - one final meeting to talk about what went well, what went wrong, and how to fix
+action plan to resolve what went wrong, and make sure issues aren't reoccuring
+main issues are: communication or not calling out slackers, at least for this course
+
+parking lot - just place to put stuff u wanna revisit afger a sprint, in backlog grooming
+ask client what new priority should be
+if u spend too much time planning, u miss out on actually doing work
+
+
+don't work sat/sun, and mon/fri are the most commonly missed workdays
+majority of work gets done tues-wed-thurs, so those are optimal work days!
+do backlog grooming / sprint planning on monday, then actualy start on tues
+last day of sprint is commit/merge, then retrospect the next day (not a new sprint)
+gives like 3 work days (thurs fri mon) of "low sprint", working on odd jobs inbetween until next sprint on tues
+can't just do sprints back to back ad nauseum, cadence is inhuman! need breaks!
+not focused on delivering something per se, but still contributing to project / doing research
+in reality most companies will work you like dogs, always shit on company time
+
+kanban(?) board, has buckets labelled like "to-do", "in prog", etc/ jjust visualizer to show whats goin on
+vong is INDIFFERENT, doesn't show productivity
+prefers "burndown chart", will talk about next time
+
+
+
+
+
+
+burndown chart
+shows remaining work hours needed by day over course of a sprint for work items
+if u got 5 tasks at 2 hours each, starts at 10 hours on day 0, should be at 0 by day N
+ideally doing one task every day at least, staying under expected anf finishing early
+realistically you lag behind then have giant bursts of progress
+regardless, there's less work than the day before
+commonly the amount of time spent is not 1:1 with the amount of work done
+can spend hours working on something without making a reasonable impact on the work needed to be done
+conversely can finish several work hours worth of tasks in one fell swoop
+usually this is the burst that follows a lull
+
+should track Actual Hours (AH) and Real Work (RW)
+up to scrum master to make this chart
+helps protect from failure by association
+but still doesn't help to be the best member of a failing team
+try to help the team before yourself
+employers don't care about burndown charts
+
+sometimes charts look like big stairs, long periods of no work then massive leaps
+this is not scrum grrrr be incremental
+better to have gaps (intentional days off?) then have it look like you did nothing all work day
+dont: do nothing, not update chart
+sometimes can gain hours if you realize you need to do extra work, result of not enough time spent in planning
+if ur blocked just work on something else lol
+helping another coworker with something is an example of the work bump up
+
+there are some free burndown chart makers but none of em are good

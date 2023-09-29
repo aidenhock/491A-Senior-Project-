@@ -1,0 +1,40 @@
+song analysis-- like pandora, api song meta-data
+	Tempo Adjustment: like beats per minute, key, metrenome dont act (tempo: BPM (italian notation 	for bpm ex. 	el dente), display metronome 
+
+collaboration and networking: centralizing a very user friendly way to collaborate with other musicians. 
+
+Sheet Music and Tabs: don't do it
+audio visualizer: great idea 
+musive theory resources: good idea, but stay utilitarian mostly, minigames are low priority (pitch mini game ask levin for advice with getting perfect pitch).
+community forums and discussions: make it as apple as possible, community help guide section? 
+
+
+recording and mixing tools: good idea as long as its basic (record dry and able to , only need volume mixing)
+
+	--have arranging clips on timeline, and changing volume on clips a feature, 
+
+video integration for profile resume: good, upload 
+event calendar: good, tie to venue and musician profile
+
+
+Legal and Licensing Information: really good idea for people who can't go to school 
+Collaborative Workspace: musicians are tech illiterate, AUDIO TRELLO FOR ILLITERATE PEOPLE WITH CATERACTS
+Project Dashboard: works like github 
+
+
+Music Uploader: include band camp and spotify, maybe distrokid?, --apis=> 
+
+Portfolio: tied to profile, demo real/short video
+messaging between users:
+bingo bullitin board page: great idea, job board 
+Venue Owner Profile (should just be a user type): Has a calendar view for gigs, Manage applicants
+
+
+half messaging/half file sharing directory.
+
+
+if you doing ANY sound editing, keep it basic. Musicians are picky. No frequency editing, filters or bass treble, volume editing, and moving clips around on a timeline is good. 
+
+careful of sheet music and advance sound editing
+
+TRAGET AUDIENCE: People who are KIND OF familiar with music. 
