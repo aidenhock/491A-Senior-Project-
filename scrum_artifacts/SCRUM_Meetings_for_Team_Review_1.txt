@@ -1,0 +1,227 @@
+Scrum Meetings September 15th - October 9th
+
+Team Name: The Decision Tree
+
+Team Members:
+- Aiden Hock
+- Brandon Kihambo Muhumuza
+- Jacob Phillips
+- Noah Daniels (no longer active)
+- Nathan Wolski
+- Kameron Ferrer
+
+
+
+
+September 15th:
+
+Scrum Master: Kihambo
+
+Summary: We discussed how we can better communicate and manage meeting days/ times with the
+schedules we have. Four of us showed up to this scrum meeting. Also, we exchanged new ideas
+since we’re no longer confident in “Kara-Go-ke.”
+
+
+- Aiden: worked on getting everyone into the meeting, putting together and new project proposal, and
+implementing scrum
+- Kihambo: worked on forming an idea for a new product, TixOnTix
+- Jacob: worked on the BRD formatting and research for product proposal
+- Diego: worked on improving proposal for air resource document
+- Nathan: worked on getting new ideas for product proposal
+- Noah: N/A (not available)
+
+
+- Aiden: going to work on getting new ideas for Team Time proposal
+- Kihambo: going to work on finding features for movie ticket finder product
+- Jacob: going to work on continuing BRD formatting and researching ideas
+- Diego: going to work on finding features for air research document
+- Nathan: going to work on researching new ideas for product proposal
+- Noah: N/A (not available) 
+
+Who’s blocked:
+- No one.
+
+
+
+
+
+September 18th:
+
+Scrum Master: Kihambo
+
+
+
+Summary: We discussed whether we should have a decision tree or not. We chose to do one if our new idea gets rejected. 3 of us will work on BRD and the other 3 will work on a decision tree if push comes to shove.
+
+
+-Aiden: worked on the vision of the product proposal.
+-Kihambo: worked on adding more features to TeamTime proposal
+-Nathan: worked on updating and advisising TeamTime product proposal
+-Diego: worked on TeamTime product proposal
+-Noah: worked on TeamTime product proposal 
+-Jaob: worked on TeamTime product proposal
+
+
+
+-Aiden: going to work on the decision tree referencing the product proposal and revising it with feedback
+-Kihambo: going to work on the BRD and decision tree
+-Nathan: going to work on the decision tree and revising product proposal
+-Diego: going to work on BRD
+-Noah: going to work on BRD and formatting the presentation
+-Jacob: going to work on BRD formatting and revisions with feedback
+
+Who's blocked:
+- No one.
+
+
+
+
+
+
+September 25th:
+
+
+Summary: came up with a new idea called "Musi- Cal." We're brainstormed ideas for features. Noah dropped the class, and Nathan was absent.
+
+
+
+-Aiden: worked on the new product proposal “Musi- Cal” and created some features that were sent to professor Vong for revision
+-Kihambo: worked on refining features and collecting more information from Vong about music proposal
+-Nathan: N/A (not attended)
+-Diego: worked on adding 3 features to proposal doc, got in touch with ideal target audience
+-Jacob: worked on product proposal and expanded on some features. 
+
+
+
+-Aiden: going to work on
+-Kihambo: going to work on BRD
+-Nathan: N/A (not attended)
+-Diego: going to work on refining proposal
+-Jacob: going to work on getting features finalized for our proposal 
+
+
+
+Who's blocked?:
+- No one.
+
+
+
+
+
+September 28th:
+
+
+
+Summary: learned about sprint planning in lecture, so we started sprint for the group and continued working on Musi- Cal's proposal.
+
+
+-Aiden: worked on organizing our sprint planning meeting such that we can allocate a sufficient amount of time utilizing all of our schedules synonymously
+-Kihambo: worked on gathering more intel how to download the tech stack downloadbales correctly
+-Nathan: worked on nothing yet
+-Diego: N/A (not attended)
+-Jacob: worked on downloading tech stack stuff, reviewed feature doc
+
+
+-Aiden: going to work on product proposal feature organization using order of importance to determine our goals. 
+-Kihambo: going to work on BRD research
+-Nathan: going to work on starting sprint and product proposal
+-Diego: N/A (not attended)
+-Jacob: going to work on product proposal after feedback comes in
+
+
+Who's blocked?:
+- No one.
+
+
+
+
+
+
+October 4th:
+
+
+Summary: got feedback on proposal from Professor Vong. Going to fix it up as much as possible. We added Kameron to the group, too.
+
+
+-Aiden: Worked on getting and revising product proposal feedback. 
+-Kihambo: worked on features for proposal
+-Nathan: worked on features for proposal
+-Diego: worked on proposal, spoke with local band members for information on how they usually get gigs, will revise features
+-Jacob: worked on features for proposal
+-Kameron: worked on features for proposal
+
+
+
+-Aiden: worked on submitting our final draft for approval tomorrow it will require everyones help, I will compile my notes and post them, but generally speaking if we could all hop on a call and hash out all the feedback we got tonight I think that will be really good for our success at getting approved. While we are waiting for feedback over the weekendI want us all to be honing in on each feature's user stories(functionality) in our brd. I will create a template for the user stories. Once we get the feedback we will do an epic turn around no later than Sunday and email it right back to him to be approved along with the BRD we will have developed by then, come Monday we all pester him for approval.
+
+-Kihambo: going to work on adding core components to functionality details
+-Nathan: going to work on reformatting features to fit our approved format
+-Diego: going to work on finalizing features for proposal
+-Jacob: going to work on revising the features and integrating core components into functionalities without being redundant and need to be very clear
+-Kameron: going to work on features in order to integrate core components into functionalities
+
+
+
+Who's blocked?:
+- No one.
+
+
+
+
+October 6th:
+
+
+Summary: going to send in final proposal changes to Long for approval. In the meantime, we're working on the BRD.
+
+
+
+-Aiden: worked on updating backlog and sending Vong registration user story 
+-Kihambo: worked on proposal and emailed Song the final changes for the proposal
+-Diego: worked on the proposal's final changes
+-Nathan: worked on finishing up the product proposal to send Vong
+-Jacob: worked on proposal features and expanding phase 2 features
+-Kameron:worked on finishing the final draft for the proposal and revising the basic track editor and collaborative features
+
+-Aiden: going to work on implementing Vong's feedback for draft #2 on BRD
+-Kihambo: going to work on the BRD
+-Diego: going to work on BRD
+-Nathan: going to work on the project roadmap
+-Jacob: going to work on  BRD template and user stories. Also, revising proposal once the feedback comes through
+-Kameron: going to work on risk mitigation section on product plan
+
+
+
+Who's blocked?
+- No one.
+
+
+
+
+
+October 9th:
+
+
+Summary: proposal has been approved. Moving on to BRD and database assignment.
+
+
+
+-Aiden: work don defining user stories for user management and audio visualization
+-Kihambo: worked on user stories for each functionality on BRD
+-Diego: worked on user stories for bingo board
+-Nathan: worked on developing our user stories for the BRD
+-Jacob: worked on expanding user stories for artist portfolio and scale display
+-Kameron: worked on homework assignment and Basic Track Editor feature. Also user stories and collaborative features were worked on
+
+
+
+-Aiden: going to work on fleshing out user story sentences after Vong's approval
+-Kihambo: going to work on database assignment
+-Diego: going to work on database assignment
+-Nathan: going to work on fixing the user stories after Vong's feedback has been received
+-Jacob: going to work on functionalities on BRD to make them more clear and quantifiable
+-Kameron: going to work on user stories and completing homework assignment
+
+
+
+Who's blocked?:
+- No one.
