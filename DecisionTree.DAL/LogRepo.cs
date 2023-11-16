@@ -10,10 +10,13 @@ namespace DecisionTree.DAL
     {
         private readonly ISqlDAO _sqlDAO;
         public LogRepo(ISqlDAO sqlDAO)
-        {_sql = sqlDAO;}
+        {
+            _sqlDAO = sqlDAO;
+        }
         public bool LogError(string logLevel, string category, string message)
         {
             _sqlDAO.ExecuteSQL($"Insert into dbo.Logs values({logLevel}, {DateTime.UtcNow}, {category}, {message})");
+            return true;
         }
     }
 }
