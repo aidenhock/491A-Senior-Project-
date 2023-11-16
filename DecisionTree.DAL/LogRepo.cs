@@ -13,7 +13,7 @@ namespace DecisionTree.DAL
         {
             _sqlDAO = sqlDAO;
         }
-        public bool LogError(string logLevel, string category, string message)
+        public bool Log(string logLevel, string category, string message)
         {
             _sqlDAO.ExecuteSQL($"Insert into dbo.Logs values({logLevel}, {DateTime.UtcNow}, {category}, {message})");
             return true;
