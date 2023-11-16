@@ -1,0 +1,72 @@
+BRD - doc that itemizes requirements
+whats the format that your project requires? list, table paragraph?
+priority list, table of user types?
+have to think of things from a dev standpoint
+ONLY document that defines what the product is - goes into every single detail about functionality
+ONLY document that the rest of the stakeholders refer to, single source of truth for product
+only people required to build software are software devs and product owners
+recommends crafting requirements that speak to us as devs
+interpretable by software devs/engineers (us)
+
+should be simple and clean, not overly flowery and full of whateverisms
+concise
+try to organize things hollistically, stuff that belongs together goes together
+build/explain most critical things first
+
+usually as a dev u only see specific pages that ur expected to work on
+if things are clustered by relevance u'll minimize the number of pages needed to see related features
+
+tables take up too much space, unless it like denotes doc version or only has extremely short phrases
+want to avoid content getting squeezed into narrow columns, avoid word wrapping
+what about user stories? product backlog; phrase, desscription, user stories
+if BRD is made up of user stories, easier to put into backlog later!
+
+"as a user, i can..."
+-search for a restaurant close to me
+	-within a radius
+-any open restaurant
+	-within a radius to select from
+-as an unathorized uzer..
+etc.
+progressively better user stories due to addition of relevant business context
+don't define technical/implementation details
+i.e. in the above leave out the fact that you have an autocomplete field
+tha'ts more FRD, functional req doc
+devs are tech experts, leave the decision/story up to them in that regard
+unless client explicitly asks for something like that
+(ex variable radius, result tables, floating point precision)
+
+try to avoid defining this stuff this much early on cause it can change easily and then ur BRD sucks
+
+also shit like sign agreements that can result in getting fined
+always note why something needs to be done w/ certain company or technology
+
+for user stories, include pre-conditions, success outcomes, and failure outcomes
+also include effort points for backlog/grooming
+
+ex:
+Feature
+User Story
+Data Source
+App Permissions - be very specific what kind of permissions/scope are needed (ex: permission = search, scope = restaurant)
+Target Audience
+Pre-conditions - usually a numbered list ordered by relevancy, 1 has to be met before 2 is checked etc. bullet points imply "any or none" but we need all
+success putcome(s) - can include NFR like performance, security, sort order; still important
+	"defining behavoir that should happen as well as NFR/constraints" elaborate on the behavoir
+failure outcome(s)
+
+most BRD's aren't split by functional/non-functional reqs, clients jut want the outcome and don't necessarily understand quantifying the behavoir, up to us to really push NFR to help implementation
+can't validate "quickly", not quantifiable; need "less than 5 seconds" or something w/ hard value
+
+should also be strict, but make sure client has certain buffer (i.e. if it takes 5.1 seconds to load)
+
+most likely use scenario? think about edge cases
+prioritize FLOW - how a natural user sees it
+
+features can contain multiple components that may require organization of sub-stories
+try to consolidate similar features/functionalites for the stories
+
+user story guidelines is in github
+
+
+
