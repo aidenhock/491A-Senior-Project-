@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace DecisionTree.DAL
 {
-    internal class LogRepo
+    public class LogRepo
     {
+        private readonly ISqlDAO _sqlDAO;
+        public LogRepo(ISqlDAO sqlDAO)
+        {_sql = sqlDAO;}
+        public bool LogError(string logLevel, string category, string message)
+        {
+            _sqlDAO.ExecuteSQL($"Insert into dbo.Logs values({logLevel}, {DateTime.UtcNow}, {category}, {message})");
+        }
     }
 }
