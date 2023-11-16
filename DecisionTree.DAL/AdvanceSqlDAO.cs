@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace DecisionTree.DAL
 {
-    public interface ISqlDAO
+    internal class AdvanceSqlDAO
     {
-        Response ExecuteSql(string sql);
     }
 }
