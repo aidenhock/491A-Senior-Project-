@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\djmcf\\source\\repos\\DecisionTree.DAL\\DecisionTree.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\djmcf\\Documents\\GitHub\\491A-Senior-Project-\\DecisionTree.DAL\\DecisionTree.DAL.csproj",
       "projectName": "DecisionTree.DAL",
-      "projectPath": "C:\\Users\\djmcf\\source\\repos\\DecisionTree.DAL\\DecisionTree.DAL.csproj",
+      "projectPath": "C:\\Users\\djmcf\\Documents\\GitHub\\491A-Senior-Project-\\DecisionTree.DAL\\DecisionTree.DAL.csproj",
       "packagesPath": "C:\\Users\\djmcf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\djmcf\\source\\repos\\DecisionTree.DAL\\obj\\",
+      "outputPath": "C:\\Users\\djmcf\\Documents\\GitHub\\491A-Senior-Project-\\DecisionTree.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\djmcf\\AppData\\Roaming\\NuGet\\NuGet.Config",
