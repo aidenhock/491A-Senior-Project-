@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace DecisionTree.DAL
 {
-    internal class SqlDAO
+    public class SqlDAO : ISqlDAO
     {
+        public Response ExecuteSql(string sql)
+        {
+            return Response;
+        }
     }
 }
