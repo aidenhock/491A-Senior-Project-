@@ -7,6 +7,6 @@ namespace DecisionTree.DAL
         {
             _usercount++;
         }
-        public int Users{get{return _usercount}}
+        public int Users{get{ return _usercount; }}
     }
 }
